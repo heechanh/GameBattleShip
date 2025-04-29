@@ -3,13 +3,12 @@
 **Battleship AI** là trò chơi hải chiến cổ điển được xây dựng bằng Python, nơi bạn sẽ đối đầu với **trí tuệ nhân tạo (AI)** ở nhiều cấp độ.  
 Người chơi có thể tùy chỉnh số lượng tàu, kích thước bàn cờ và tận hưởng trải nghiệm sống động với hiệu ứng âm thanh.
 
+- Đây là 1 dự án game đầu tiên khi mới học 
+
 ---
 
 ## 🎥 Demo
-> ![Battleship Gameplay](images/demo.gif)  
-> *(Thêm ảnh GIF/video minh họa gameplay nếu có)*
-
-
+ImageDemo/DesingAndDemo
 ---
 
 ## 🧠 Tính năng nổi bật
